@@ -21,7 +21,7 @@ Allows you to add, view, and delete tasks — perfect for managing day‑to‑da
 1. Clone or download the repository:
 ```bash
 git clone https://github.com/SohiniSangoju/To-do-application.git
-
+```
 ## 🚀 How to Use
 
 1. Open the `todos.html` file in your browser (no server required).
